@@ -1,3 +1,3 @@
-[LANGUAGE:PORTUGUESE_BRAZIL]
-    [NAME:Português Brasileiro]
+[LANGUAGE:PORTUGUESE_BR]
+    [NAME:Portugues Brasileiro]
     [ADJECTIVE:Brasileiro]
