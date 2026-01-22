@@ -1,0 +1,4 @@
+[ID:traducao_ptbr_df]
+[TITLE:Tradução PT-BR]
+[AUTHOR:Kiiwi (Douglas Waik)]
+[DESCRIPTION:Tradução brasileira do Dwarf Fortress mantida no GitHub. Projeto comunitário e em desenvolvimento.]
